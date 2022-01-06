@@ -1,0 +1,115 @@
+p.ensat
+{
+    margin-top: 0px ;
+    font-size: 40px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color:darkgoldenrod ;
+}
+
+p.signuperror
+{
+    color:red ; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+::placeholder {
+    color: rgb(197, 201, 211);
+    opacity: 0.5; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: rgb(197, 201, 211);
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+   color: rgb(197, 201, 211);
+  }
+
+body
+{
+    background-color: rgb(235, 235, 235) ;
+}
+
+input
+{
+    
+    text-align: center ; 
+    background-color:rgb(64, 117, 167);
+    margin-left: 4px;
+    border: 10px ;
+    border-radius: 10px;
+    text-decoration-color: rgb(131, 152, 170) ;
+    color: rgb(206, 206, 206);
+}
+
+p.signup    
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(53, 110, 133) ;
+    border: 10px ;
+    box-shadow:0 0 15px 4px rgba(37, 36, 36, 0.06);
+    border-radius: 10px;
+    text-decoration-color: rgb(70, 73, 73) ;
+    color: rgb(60, 100, 175);
+}
+img.logo_ensat
+{
+    width: 170px ;
+    margin-top: 10px ;
+}
+
+.name
+{
+    font-family: 'Times New Roman', Times, serif ;
+    color: rgb(97, 97, 184);
+    font-weight: bold ;
+}
+
+.mp
+{
+    font-family: 'Times New Roman', Times, serif ;
+    color: rgb(97, 97, 184);
+    font-weight: bold ;
+}
+
+form input.register
+{
+    color:darkgoldenrod;
+    background-color: rgb(38, 38, 95) ;
+}
+form input.register:hover
+{
+    color:rgb(38, 38, 95) ;
+    background-color: darkgoldenrod;
+}
+form input.connexion
+{
+    color:darkgoldenrod;
+    background-color: rgb(38, 38, 95) ;
+}
+form input.connexion:hover
+{
+    color:rgb(38, 38, 95) ;
+    background-color: darkgoldenrod;
+}
+
+form input.signup
+{
+    color:darkgoldenrod;
+    background-color: rgb(38, 38, 95) ;
+}
+form input.signup:hover
+{
+    color:rgb(38, 38, 95) ;
+    background-color: darkgoldenrod;
+}
+
+div h6.lespieds
+{
+    margin-bottom : 0px ; 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ; 
+    font-size: 9px ;
+    font-style:normal ;
+}
+
+
